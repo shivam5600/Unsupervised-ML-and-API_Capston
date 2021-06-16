@@ -1,0 +1,1520 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "60c9bce71a19a355b0952320"
+    },
+    "response": {
+        "suggestedFilters": {
+            "header": "Tap to show:",
+            "filters": [
+                {
+                    "name": "Open now",
+                    "key": "openNow"
+                }
+            ]
+        },
+        "headerLocation": "Marble Hill",
+        "headerFullLocation": "Marble Hill, New York",
+        "headerLocationGranularity": "neighborhood",
+        "totalResults": 24,
+        "suggestedBounds": {
+            "ne": {
+                "lat": 40.88105078329964,
+                "lng": -73.90471933917806
+            },
+            "sw": {
+                "lat": 40.87205077429964,
+                "lng": -73.91659997808156
+            }
+        },
+        "groups": [
+            {
+                "type": "Recommended Places",
+                "name": "recommended",
+                "items": [
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4baf59e8f964a520a6f93be3",
+                            "name": "Bikram Yoga",
+                            "location": {
+                                "address": "5500 Broadway",
+                                "crossStreet": "230th Street",
+                                "lat": 40.876843690797934,
+                                "lng": -73.90620384419528,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.876843690797934,
+                                        "lng": -73.90620384419528
+                                    }
+                                ],
+                                "distance": 376,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "5500 Broadway (230th Street)",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d102941735",
+                                    "name": "Yoga Studio",
+                                    "pluralName": "Yoga Studios",
+                                    "shortName": "Yoga Studio",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/gym_yogastudio_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4baf59e8f964a520a6f93be3-0"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b4429abf964a52037f225e3",
+                            "name": "Arturo's",
+                            "location": {
+                                "address": "5198 Broadway",
+                                "crossStreet": "at 225th St.",
+                                "lat": 40.87441177110231,
+                                "lng": -73.91027100981574,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.87441177110231,
+                                        "lng": -73.91027100981574
+                                    },
+                                    {
+                                        "label": "entrance",
+                                        "lat": 40.874401,
+                                        "lng": -73.910339
+                                    }
+                                ],
+                                "distance": 240,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "5198 Broadway (at 225th St.)",
+                                    "New York, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1ca941735",
+                                    "name": "Pizza Place",
+                                    "pluralName": "Pizza Places",
+                                    "shortName": "Pizza",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "delivery": {
+                                "id": "72548",
+                                "url": "https://www.seamless.com/menu/arturos-pizza-5189-broadway-ave-new-york/72548?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=72548",
+                                "provider": {
+                                    "name": "seamless",
+                                    "icon": {
+                                        "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                        "sizes": [
+                                            40,
+                                            50
+                                        ],
+                                        "name": "/delivery_provider_seamless_20180129.png"
+                                    }
+                                }
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4b4429abf964a52037f225e3-1"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b79cc46f964a520c5122fe3",
+                            "name": "Tibbett Diner",
+                            "location": {
+                                "address": "3033 Tibbett Ave",
+                                "crossStreet": "btwn 230th & 231st",
+                                "lat": 40.8804044222466,
+                                "lng": -73.90893738006402,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.8804044222466,
+                                        "lng": -73.90893738006402
+                                    },
+                                    {
+                                        "label": "entrance",
+                                        "lat": 40.880388,
+                                        "lng": -73.90896
+                                    }
+                                ],
+                                "distance": 452,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "3033 Tibbett Ave (btwn 230th & 231st)",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d147941735",
+                                    "name": "Diner",
+                                    "pluralName": "Diners",
+                                    "shortName": "Diner",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "delivery": {
+                                "id": "2539986",
+                                "url": "https://www.seamless.com/menu/tibbett-diner-3033-tibbett-ave-bronx/2539986?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=2539986",
+                                "provider": {
+                                    "name": "seamless",
+                                    "icon": {
+                                        "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                        "sizes": [
+                                            40,
+                                            50
+                                        ],
+                                        "name": "/delivery_provider_seamless_20180129.png"
+                                    }
+                                }
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4b79cc46f964a520c5122fe3-2"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b88e053f964a5208a1132e3",
+                            "name": "Rite Aid",
+                            "location": {
+                                "address": "5237 Broadway",
+                                "crossStreet": "228th Street",
+                                "lat": 40.875466574434704,
+                                "lng": -73.90890629016033,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.875466574434704,
+                                        "lng": -73.90890629016033
+                                    }
+                                ],
+                                "distance": 190,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "5237 Broadway (228th Street)",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d10f951735",
+                                    "name": "Pharmacy",
+                                    "pluralName": "Pharmacies",
+                                    "shortName": "Pharmacy",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4b88e053f964a5208a1132e3-3"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b4f7b65f964a5205a0827e3",
+                            "name": "Subway",
+                            "location": {
+                                "address": "5209 Broadway",
+                                "lat": 40.8746665302951,
+                                "lng": -73.9095858429637,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.8746665302951,
+                                        "lng": -73.9095858429637
+                                    }
+                                ],
+                                "distance": 228,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "5209 Broadway",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c5941735",
+                                    "name": "Sandwich Place",
+                                    "pluralName": "Sandwich Places",
+                                    "shortName": "Sandwiches",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4b4f7b65f964a5205a0827e3-4"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5631194e498e2de074de661c",
+                            "name": "Vitamin Shoppe",
+                            "location": {
+                                "address": "5510 Broadway",
+                                "lat": 40.87716,
+                                "lng": -73.905632,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.87716,
+                                        "lng": -73.905632
+                                    },
+                                    {
+                                        "label": "entrance",
+                                        "lat": 40.877165,
+                                        "lng": -73.905673
+                                    }
+                                ],
+                                "distance": 428,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "5510 Broadway",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "5744ccdfe4b0c0459246b4cd",
+                                    "name": "Supplement Shop",
+                                    "pluralName": "Supplement Shops",
+                                    "shortName": "Supplement Shop",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/education/lab_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-5631194e498e2de074de661c-5"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4e4e4517bd4101d0d7a67568",
+                            "name": "Baskin-Robbins",
+                            "location": {
+                                "address": "5501 Broadway",
+                                "lat": 40.87713228361307,
+                                "lng": -73.90667840652725,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "entrance",
+                                        "lat": 40.877129,
+                                        "lng": -73.906608
+                                    },
+                                    {
+                                        "label": "display",
+                                        "lat": 40.87713228361307,
+                                        "lng": -73.90667840652725
+                                    }
+                                ],
+                                "distance": 341,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "5501 Broadway",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c9941735",
+                                    "name": "Ice Cream Shop",
+                                    "pluralName": "Ice Cream Shops",
+                                    "shortName": "Ice Cream",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4e4e4517bd4101d0d7a67568-6"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "55f81cd2498ee903149fcc64",
+                            "name": "Starbucks",
+                            "location": {
+                                "address": "171 W 230th St",
+                                "crossStreet": "Kimberly Pl",
+                                "lat": 40.87753134921497,
+                                "lng": -73.90558216359267,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.87753134921497,
+                                        "lng": -73.90558216359267
+                                    }
+                                ],
+                                "distance": 441,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "171 W 230th St (Kimberly Pl)",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1e0931735",
+                                    "name": "Coffee Shop",
+                                    "pluralName": "Coffee Shops",
+                                    "shortName": "Coffee Shop",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-55f81cd2498ee903149fcc64-7"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4c852173dc018cfa2bc3e56c",
+                            "name": "The Children's Place",
+                            "location": {
+                                "address": "44 W 225th St",
+                                "lat": 40.873671591133125,
+                                "lng": -73.90815619608166,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.873671591133125,
+                                        "lng": -73.90815619608166
+                                    }
+                                ],
+                                "distance": 383,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "44 W 225th St",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d105951735",
+                                    "name": "Kids Store",
+                                    "pluralName": "Kids Stores",
+                                    "shortName": "Kids Store",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_kids_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4c852173dc018cfa2bc3e56c-8"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5af7b896012358002c42bf4a",
+                            "name": "America's Best Contacts & Eyeglasses",
+                            "location": {
+                                "address": "90 West 225 Street",
+                                "lat": 40.874001,
+                                "lng": -73.909693,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.874001,
+                                        "lng": -73.909693
+                                    },
+                                    {
+                                        "label": "entrance",
+                                        "lat": 40.873905,
+                                        "lng": -73.909005
+                                    }
+                                ],
+                                "distance": 295,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "90 West 225 Street",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4d954afda243a5684865b473",
+                                    "name": "Optical Shop",
+                                    "pluralName": "Optical Shops",
+                                    "shortName": "Optical",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_opticalshop_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-5af7b896012358002c42bf4a-9"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4a725fa1f964a520f6da1fe3",
+                            "name": "TCR The Club of Riverdale",
+                            "location": {
+                                "address": "2600 Netherland Ave",
+                                "lat": 40.8786283,
+                                "lng": -73.9145678,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.8786283,
+                                        "lng": -73.9145678
+                                    }
+                                ],
+                                "distance": 402,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "2600 Netherland Ave",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4e39a891bd410d7aed40cbc2",
+                                    "name": "Tennis Stadium",
+                                    "pluralName": "Tennis Stadiums",
+                                    "shortName": "Tennis",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_tennis_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "40358759"
+                            }
+                        },
+                        "referralId": "e-0-4a725fa1f964a520f6da1fe3-10"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5802a20c38fa8638a305e241",
+                            "name": "Auntie Anne's",
+                            "location": {
+                                "address": "5532 Broadway W230th Str",
+                                "lat": 40.8773995,
+                                "lng": -73.9049467,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.8773995,
+                                        "lng": -73.9049467
+                                    }
+                                ],
+                                "distance": 490,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "5532 Broadway W230th Str",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d16a941735",
+                                    "name": "Bakery",
+                                    "pluralName": "Bakeries",
+                                    "shortName": "Bakery",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-5802a20c38fa8638a305e241-11"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b9c9c43f964a520ac7236e3",
+                            "name": "Lot Less Closeouts",
+                            "location": {
+                                "address": "5545 Broadway",
+                                "crossStreet": "231st St",
+                                "lat": 40.878270422202085,
+                                "lng": -73.9052646742604,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.878270422202085,
+                                        "lng": -73.9052646742604
+                                    },
+                                    {
+                                        "label": "entrance",
+                                        "lat": 40.87828,
+                                        "lng": -73.905466
+                                    }
+                                ],
+                                "distance": 492,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "5545 Broadway (231st St)",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "52dea92d3cf9994f4e043dbb",
+                                    "name": "Discount Store",
+                                    "pluralName": "Discount Stores",
+                                    "shortName": "Discount Store",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/discountstore_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4b9c9c43f964a520ac7236e3-12"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4e9356b4754a50cc7dc4d209",
+                            "name": "U-Haul Moving & Storage of Riverdale",
+                            "location": {
+                                "address": "230 W 230th St",
+                                "lat": 40.87836874312277,
+                                "lng": -73.90953147870039,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.87836874312277,
+                                        "lng": -73.90953147870039
+                                    },
+                                    {
+                                        "label": "entrance",
+                                        "lat": 40.878957,
+                                        "lng": -73.909496
+                                    }
+                                ],
+                                "distance": 223,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "230 W 230th St",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4f04b1572fb6e1c99f3db0bf",
+                                    "name": "Storage Facility",
+                                    "pluralName": "Storage Facilities",
+                                    "shortName": "Storage",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/storage_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4e9356b4754a50cc7dc4d209-13"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4e4ce4debd413c4cc66d05d0",
+                            "name": "Subway",
+                            "location": {
+                                "address": "5549 Broadway",
+                                "lat": 40.878464979323944,
+                                "lng": -73.9055176422437,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.878464979323944,
+                                        "lng": -73.9055176422437
+                                    },
+                                    {
+                                        "label": "entrance",
+                                        "lat": 40.878473,
+                                        "lng": -73.905329
+                                    }
+                                ],
+                                "distance": 482,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "5549 Broadway",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1c5941735",
+                                    "name": "Sandwich Place",
+                                    "pluralName": "Sandwich Places",
+                                    "shortName": "Sandwiches",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4e4ce4debd413c4cc66d05d0-14"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b9c9c6af964a520b27236e3",
+                            "name": "Land & Sea Restaurant",
+                            "location": {
+                                "address": "5535 Broadway",
+                                "crossStreet": "231st St",
+                                "lat": 40.87788463309788,
+                                "lng": -73.90587282193539,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.87788463309788,
+                                        "lng": -73.90587282193539
+                                    },
+                                    {
+                                        "label": "entrance",
+                                        "lat": 40.877906,
+                                        "lng": -73.905722
+                                    }
+                                ],
+                                "distance": 429,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "5535 Broadway (231st St)",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1ce941735",
+                                    "name": "Seafood Restaurant",
+                                    "pluralName": "Seafood Restaurants",
+                                    "shortName": "Seafood",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4b9c9c6af964a520b27236e3-15"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4ec68016cc21b428e1d2060a",
+                            "name": "TD Bank",
+                            "location": {
+                                "address": "281 W 230th St",
+                                "lat": 40.8794958,
+                                "lng": -73.9092856,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.8794958,
+                                        "lng": -73.9092856
+                                    },
+                                    {
+                                        "label": "entrance",
+                                        "lat": 40.879414,
+                                        "lng": -73.909311
+                                    }
+                                ],
+                                "distance": 347,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "281 W 230th St",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d10a951735",
+                                    "name": "Bank",
+                                    "pluralName": "Banks",
+                                    "shortName": "Bank",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4ec68016cc21b428e1d2060a-16"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "546d31ca498e561c698a0320",
+                            "name": "T.J. Maxx",
+                            "location": {
+                                "address": "Broadway",
+                                "crossStreet": "230th Street",
+                                "lat": 40.87723198343352,
+                                "lng": -73.90504239962168,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.87723198343352,
+                                        "lng": -73.90504239962168
+                                    }
+                                ],
+                                "distance": 478,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "Broadway (230th Street)",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1f6941735",
+                                    "name": "Department Store",
+                                    "pluralName": "Department Stores",
+                                    "shortName": "Department Store",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/departmentstore_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-546d31ca498e561c698a0320-17"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "55f751ca498eacc0307d1cfe",
+                            "name": "Blink Fitness",
+                            "location": {
+                                "address": "5520 Broadway",
+                                "crossStreet": "at W 230th St",
+                                "lat": 40.877271495944626,
+                                "lng": -73.90559491338075,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.877271495944626,
+                                        "lng": -73.90559491338075
+                                    }
+                                ],
+                                "distance": 433,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "neighborhood": "Kingsbridge",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "5520 Broadway (at W 230th St)",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d176941735",
+                                    "name": "Gym",
+                                    "pluralName": "Gyms",
+                                    "shortName": "Gym",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-55f751ca498eacc0307d1cfe-18"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b5357adf964a520319827e3",
+                            "name": "Dunkin'",
+                            "location": {
+                                "address": "5501 Broadway",
+                                "crossStreet": "W 230th St",
+                                "lat": 40.87713584201589,
+                                "lng": -73.90666550701411,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.87713584201589,
+                                        "lng": -73.90666550701411
+                                    }
+                                ],
+                                "distance": 342,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "5501 Broadway (W 230th St)",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d148941735",
+                                    "name": "Donut Shop",
+                                    "pluralName": "Donut Shops",
+                                    "shortName": "Donuts",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/donuts_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "delivery": {
+                                "id": "2200464",
+                                "url": "https://www.seamless.com/menu/dunkin-5501-broadway-bronx/2200464?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=2200464",
+                                "provider": {
+                                    "name": "seamless",
+                                    "icon": {
+                                        "prefix": "https://fastly.4sqi.net/img/general/cap/",
+                                        "sizes": [
+                                            40,
+                                            50
+                                        ],
+                                        "name": "/delivery_provider_seamless_20180129.png"
+                                    }
+                                }
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4b5357adf964a520319827e3-19"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "58f4fc2b829b0c305839877b",
+                            "name": "Forever 21",
+                            "location": {
+                                "lat": 40.87747,
+                                "lng": -73.90594,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.87747,
+                                        "lng": -73.90594
+                                    }
+                                ],
+                                "distance": 410,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "New York, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d103951735",
+                                    "name": "Clothing Store",
+                                    "pluralName": "Clothing Stores",
+                                    "shortName": "Apparel",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-58f4fc2b829b0c305839877b-20"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4dfe40df8877333e195b68fc",
+                            "name": "Parrilla Latina",
+                            "location": {
+                                "address": "230th St & Broadway",
+                                "lat": 40.87747294351472,
+                                "lng": -73.90607346968568,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.87747294351472,
+                                        "lng": -73.90607346968568
+                                    }
+                                ],
+                                "distance": 399,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "230th St & Broadway",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1cc941735",
+                                    "name": "Steakhouse",
+                                    "pluralName": "Steakhouses",
+                                    "shortName": "Steakhouse",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4dfe40df8877333e195b68fc-21"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4ed7956b8b81b2bf28adc714",
+                            "name": "Terrace View Delicatessen",
+                            "location": {
+                                "address": "135 Terrace View Ave.",
+                                "lat": 40.875995,
+                                "lng": -73.913151,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.875995,
+                                        "lng": -73.913151
+                                    },
+                                    {
+                                        "label": "entrance",
+                                        "lat": 40.875964,
+                                        "lng": -73.912985
+                                    }
+                                ],
+                                "distance": 218,
+                                "postalCode": "10034",
+                                "cc": "US",
+                                "city": "New York",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "135 Terrace View Ave.",
+                                    "New York, NY 10034",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d146941735",
+                                    "name": "Deli / Bodega",
+                                    "pluralName": "Delis / Bodegas",
+                                    "shortName": "Deli / Bodega",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4ed7956b8b81b2bf28adc714-22"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5012c967e889cf0567e9e2d4",
+                            "name": "Grill 26 at TCR",
+                            "location": {
+                                "address": "2600 Netherland Ave",
+                                "crossStreet": "off Kappock Street",
+                                "lat": 40.878802209517126,
+                                "lng": -73.9156723022461,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 40.878802209517126,
+                                        "lng": -73.9156723022461
+                                    }
+                                ],
+                                "distance": 490,
+                                "postalCode": "10463",
+                                "cc": "US",
+                                "city": "Bronx",
+                                "state": "NY",
+                                "country": "United States",
+                                "formattedAddress": [
+                                    "2600 Netherland Ave (off Kappock Street)",
+                                    "Bronx, NY 10463",
+                                    "United States"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d14e941735",
+                                    "name": "American Restaurant",
+                                    "pluralName": "American Restaurants",
+                                    "shortName": "American",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-5012c967e889cf0567e9e2d4-23"
+                    }
+                ]
+            }
+        ]
+    }
+}
